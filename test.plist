@@ -13,6 +13,12 @@
                     <key>url</key>
                     <string>http://122.11.58.123/download/ff.ipa</string>
                 </dict>
+                <dict>
+				<key>kind</key>
+				<string>display-image</string>
+				<key>url</key>
+				<string>http://122.11.58.123/download/ff.png</string>
+		</dict>
             </array>
             <key>metadata</key>
             <dict>
@@ -29,4 +35,3 @@
     </array>
 </dict>
 </plist>
-
