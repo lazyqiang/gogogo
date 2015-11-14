@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://122.11.58.123/download/ff.ipa</string>
+                    <string>http://122.11.58.123/download/ff.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
