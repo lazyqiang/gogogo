@@ -11,13 +11,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://122.11.58.123/download/BesideM.ipa</string>
+                    <string>http://122.11.47.153/download/BesideM.ipa</string>
                 </dict>
                 <dict>
 			<key>kind</key>
 			<string>display-image</string>
 			<key>url</key>
-			<string>http://122.11.58.123/download/ff.png</string>
+			<string>http://122.11.47.153/download/ff.png</string>
 		</dict>
             </array>
             <key>metadata</key>
